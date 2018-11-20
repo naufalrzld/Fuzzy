@@ -1,7 +1,7 @@
 'use strict';
 
 const json2csv = require('json2csv').parse;
-const fields = ['No', 'Pendapatan', 'Hutang', 'wa'];
+const fields = ['No', 'Pendapatan', 'Hutang', 'Sugeno'];
 const fs = require('fs')
 const p = require('./pendapatan')
 const h = require('./hutang')
@@ -51,14 +51,14 @@ data.forEach(function(d) {
     'No': d.No,
     'Pendapatan': d.Pendapatan,
     'Hutang': d.Hutang,
-    'wa': sugeno
+    'Sugeno': sugeno
   }
 
   a.push(wa)
 })
 
 a.sort(function(b, c) {
-  return parseFloat(c.wa) - parseFloat(b.wa)
+  return parseFloat(c.Sugeno) - parseFloat(b.Sugeno)
 })
 
 var i;
@@ -68,7 +68,7 @@ for (i = 0; i < 20; i++) {
 
 var csv = json2csv(hasil, { fields: fields });
 
-fs.writeFile('file.csv', csv, function(err) {
+fs.writeFile('TebakanTugas2.csv', csv, function(err) {
 if (err) throw err;
 console.log('Success');
 });
