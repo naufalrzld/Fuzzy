@@ -1,0 +1,504 @@
+{
+  "data":[
+    {
+      "No": 1,
+      "Pendapatan": 1.632,
+      "Hutang": 39.375
+    },
+    {
+      "No": 2,
+      "Pendapatan": 0.825,
+      "Hutang": 39.236
+    },
+    {
+      "No": 3,
+      "Pendapatan": 1.273,
+      "Hutang": 80.701
+    },
+    {
+      "No": 4,
+      "Pendapatan": 1.534,
+      "Hutang": 73.641
+    },
+    {
+      "No": 5,
+      "Pendapatan": 1.596,
+      "Hutang": 37.319
+    },
+    {
+      "No": 6,
+      "Pendapatan": 0.664,
+      "Hutang": 63.226
+    },
+    {
+      "No": 7,
+      "Pendapatan": 1.68,
+      "Hutang": 37.761
+    },
+    {
+      "No": 8,
+      "Pendapatan": 0.925,
+      "Hutang": 0
+    },
+    {
+      "No": 9,
+      "Pendapatan": 0.806,
+      "Hutang": 69.192
+    },
+    {
+      "No": 10,
+      "Pendapatan": 1.178,
+      "Hutang": 26.359
+    },
+    {
+      "No": 11,
+      "Pendapatan": 1.548,
+      "Hutang": 53.764
+    },
+    {
+      "No": 12,
+      "Pendapatan": 1.617,
+      "Hutang": 55.544
+    },
+    {
+      "No": 13,
+      "Pendapatan": 0.89,
+      "Hutang": 41.718
+    },
+    {
+      "No": 14,
+      "Pendapatan": 1.354,
+      "Hutang": 61.333
+    },
+    {
+      "No": 15,
+      "Pendapatan": 0.428,
+      "Hutang": 38.739
+    },
+    {
+      "No": 16,
+      "Pendapatan": 1.319,
+      "Hutang": 41.201
+    },
+    {
+      "No": 17,
+      "Pendapatan": 0.859,
+      "Hutang": 26.266
+    },
+    {
+      "No": 18,
+      "Pendapatan": 1.345,
+      "Hutang": 76.343
+    },
+    {
+      "No": 19,
+      "Pendapatan": 0.599,
+      "Hutang": 45.566
+    },
+    {
+      "No": 20,
+      "Pendapatan": 1.763,
+      "Hutang": 55.289
+    },
+    {
+      "No": 21,
+      "Pendapatan": 0.155,
+      "Hutang": 29.496
+    },
+    {
+      "No": 22,
+      "Pendapatan": 0.828,
+      "Hutang": 56.747
+    },
+    {
+      "No": 23,
+      "Pendapatan": 0.112,
+      "Hutang": 26.202
+    },
+    {
+      "No": 24,
+      "Pendapatan": 0.819,
+      "Hutang": 60.764
+    },
+    {
+      "No": 25,
+      "Pendapatan": 1.723,
+      "Hutang": 33.533
+    },
+    {
+      "No": 26,
+      "Pendapatan": 1.41,
+      "Hutang": 25.133
+    },
+    {
+      "No": 27,
+      "Pendapatan": 1.255,
+      "Hutang": 27.166
+    },
+    {
+      "No": 28,
+      "Pendapatan": 1.369,
+      "Hutang": 50.779
+    },
+    {
+      "No": 29,
+      "Pendapatan": 1.684,
+      "Hutang": 45.068
+    },
+    {
+      "No": 30,
+      "Pendapatan": 1.794,
+      "Hutang": 24.11
+    },
+    {
+      "No": 31,
+      "Pendapatan": 0.632,
+      "Hutang": 20.042
+    },
+    {
+      "No": 32,
+      "Pendapatan": 1.352,
+      "Hutang": 55.861
+    },
+    {
+      "No": 33,
+      "Pendapatan": 0.923,
+      "Hutang": 37.382
+    },
+    {
+      "No": 34,
+      "Pendapatan": 0.515,
+      "Hutang": 41.771
+    },
+    {
+      "No": 35,
+      "Pendapatan": 1.325,
+      "Hutang": 70.009
+    },
+    {
+      "No": 36,
+      "Pendapatan": 0.946,
+      "Hutang": 98
+    },
+    {
+      "No": 37,
+      "Pendapatan": 1.755,
+      "Hutang": 42.045
+    },
+    {
+      "No": 38,
+      "Pendapatan": 0.747,
+      "Hutang": 25.471
+    },
+    {
+      "No": 39,
+      "Pendapatan": 1.332,
+      "Hutang": 68.795
+    },
+    {
+      "No": 40,
+      "Pendapatan": 1.263,
+      "Hutang": 45.986
+    },
+    {
+      "No": 41,
+      "Pendapatan": 1.159,
+      "Hutang": 68.12
+    },
+    {
+      "No": 42,
+      "Pendapatan": 0.507,
+      "Hutang": 16.331
+    },
+    {
+      "No": 43,
+      "Pendapatan": 1.353,
+      "Hutang": 61.466
+    },
+    {
+      "No": 44,
+      "Pendapatan": 0.902,
+      "Hutang": 68.021
+    },
+    {
+      "No": 45,
+      "Pendapatan": 1.736,
+      "Hutang": 27.34
+    },
+    {
+      "No": 46,
+      "Pendapatan": 1.714,
+      "Hutang": 36.429
+    },
+    {
+      "No": 47,
+      "Pendapatan": 0.78,
+      "Hutang": 78.054
+    },
+    {
+      "No": 48,
+      "Pendapatan": 1.433,
+      "Hutang": 78.028
+    },
+    {
+      "No": 49,
+      "Pendapatan": 0.516,
+      "Hutang": 43.66
+    },
+    {
+      "No": 50,
+      "Pendapatan": 1.818,
+      "Hutang": 49.628
+    },
+    {
+      "No": 51,
+      "Pendapatan": 0.689,
+      "Hutang": 2.032
+    },
+    {
+      "No": 52,
+      "Pendapatan": 1.551,
+      "Hutang": 51.746
+    },
+    {
+      "No": 53,
+      "Pendapatan": 0.473,
+      "Hutang": 28.74
+    },
+    {
+      "No": 54,
+      "Pendapatan": 0.756,
+      "Hutang": 11.764
+    },
+    {
+      "No": 55,
+      "Pendapatan": 1.623,
+      "Hutang": 41.85
+    },
+    {
+      "No": 56,
+      "Pendapatan": 1.251,
+      "Hutang": 48.798
+    },
+    {
+      "No": 57,
+      "Pendapatan": 1.336,
+      "Hutang": 62.094
+    },
+    {
+      "No": 58,
+      "Pendapatan": 0.748,
+      "Hutang": 23.649
+    },
+    {
+      "No": 59,
+      "Pendapatan": 0.493,
+      "Hutang": 27.813
+    },
+    {
+      "No": 60,
+      "Pendapatan": 0.765,
+      "Hutang": 36.031
+    },
+    {
+      "No": 61,
+      "Pendapatan": 0.88,
+      "Hutang": 79.878
+    },
+    {
+      "No": 62,
+      "Pendapatan": 1.159,
+      "Hutang": 87.871
+    },
+    {
+      "No": 63,
+      "Pendapatan": 1.423,
+      "Hutang": 27.672
+    },
+    {
+      "No": 64,
+      "Pendapatan": 0.588,
+      "Hutang": 35.48
+    },
+    {
+      "No": 65,
+      "Pendapatan": 1.282,
+      "Hutang": 29.854
+    },
+    {
+      "No": 66,
+      "Pendapatan": 0.666,
+      "Hutang": 60.245
+    },
+    {
+      "No": 67,
+      "Pendapatan": 1.385,
+      "Hutang": 61.661
+    },
+    {
+      "No": 68,
+      "Pendapatan": 1.306,
+      "Hutang": 52.933
+    },
+    {
+      "No": 69,
+      "Pendapatan": 1.218,
+      "Hutang": 17.396
+    },
+    {
+      "No": 70,
+      "Pendapatan": 1.025,
+      "Hutang": 29.924
+    },
+    {
+      "No": 71,
+      "Pendapatan": 1.046,
+      "Hutang": 13.541
+    },
+    {
+      "No": 72,
+      "Pendapatan": 1.641,
+      "Hutang": 46.775
+    },
+    {
+      "No": 73,
+      "Pendapatan": 0.158,
+      "Hutang": 1.472
+    },
+    {
+      "No": 74,
+      "Pendapatan": 0.6,
+      "Hutang": 80.864
+    },
+    {
+      "No": 75,
+      "Pendapatan": 0.894,
+      "Hutang": 22.836
+    },
+    {
+      "No": 76,
+      "Pendapatan": 0.791,
+      "Hutang": 39.781
+    },
+    {
+      "No": 77,
+      "Pendapatan": 1.217,
+      "Hutang": 82.991
+    },
+    {
+      "No": 78,
+      "Pendapatan": 1.9,
+      "Hutang": 32.769
+    },
+    {
+      "No": 79,
+      "Pendapatan": 1.227,
+      "Hutang": 20.851
+    },
+    {
+      "No": 80,
+      "Pendapatan": 0.664,
+      "Hutang": 39.692
+    },
+    {
+      "No": 81,
+      "Pendapatan": 1.164,
+      "Hutang": 18.112
+    },
+    {
+      "No": 82,
+      "Pendapatan": 1.804,
+      "Hutang": 27.693
+    },
+    {
+      "No": 83,
+      "Pendapatan": 0.219,
+      "Hutang": 11.55
+    },
+    {
+      "No": 84,
+      "Pendapatan": 1.643,
+      "Hutang": 57.308
+    },
+    {
+      "No": 85,
+      "Pendapatan": 1.03,
+      "Hutang": 25.246
+    },
+    {
+      "No": 86,
+      "Pendapatan": 1.531,
+      "Hutang": 21.48
+    },
+    {
+      "No": 87,
+      "Pendapatan": 1.593,
+      "Hutang": 41.325
+    },
+    {
+      "No": 88,
+      "Pendapatan": 1.209,
+      "Hutang": 67.625
+    },
+    {
+      "No": 89,
+      "Pendapatan": 0.754,
+      "Hutang": 37.883
+    },
+    {
+      "No": 90,
+      "Pendapatan": 1.586,
+      "Hutang": 38.999
+    },
+    {
+      "No": 91,
+      "Pendapatan": 0.793,
+      "Hutang": 11.302
+    },
+    {
+      "No": 92,
+      "Pendapatan": 0.817,
+      "Hutang": 62.427
+    },
+    {
+      "No": 93,
+      "Pendapatan": 0.557,
+      "Hutang": 29.517
+    },
+    {
+      "No": 94,
+      "Pendapatan": 1.474,
+      "Hutang": 56.534
+    },
+    {
+      "No": 95,
+      "Pendapatan": 1.329,
+      "Hutang": 71.308
+    },
+    {
+      "No": 96,
+      "Pendapatan": 0.91,
+      "Hutang": 43.769
+    },
+    {
+      "No": 97,
+      "Pendapatan": 0.95,
+      "Hutang": 23.79
+    },
+    {
+      "No": 98,
+      "Pendapatan": 1.406,
+      "Hutang": 46.838
+    },
+    {
+      "No": 99,
+      "Pendapatan": 0.816,
+      "Hutang": 18.123
+    },
+    {
+      "No": 100,
+      "Pendapatan": 1.183,
+      "Hutang": 28.061
+    }
+  ]
+}
